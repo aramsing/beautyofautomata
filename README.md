@@ -1,4 +1,4 @@
-# beautyofautomata
+# Beauty of Automata
 
 Open the folder through either your command line or whatever software is used
 
